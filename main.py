@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-25T20:12:04.288Z
-Commit: Fix CSS styling bug on mobile devices
+Timestamp: 2026-03-25T20:12:17.399Z
+Commit: Add dark mode support
